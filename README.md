@@ -1,4 +1,4 @@
-# booking-hotel
+# Booking-hotel
 # Link To Site = https://booking-hotelblue.netlify.app/
 
 # Getting Started with Create React App
