@@ -1,4 +1,7 @@
 # Booking-hotel
+
+![Screenshot (20)](https://github.com/PrathmeshR/booking-hotel/assets/80195698/d0fa2c73-253b-4e64-8b5a-65260468f813)
+
 # Link To Site = https://booking-hotelblue.netlify.app/
 
 # Getting Started with Create React App
